@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <title >PLANTIEEEEE</title>
+                         
+        <!--meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1"-->
+            <link rel="stylesheet" type="text/css" href="file:///C:\Users\Windows 10\Documents\html\mycaptain\c.css" >
+    
+    </head>
+
+           
+    <body>
+        <div class="head"></div><h1>PLANT HUB </h1> 
+            <!--body style="background-color:darkolivegreen;"></body--->
+        
+        <body style="background-image:url('bg.jpg');background-repeat: no-repeat; background-attachment: fixed ; background-size: 100%;">
+             
+        </div>
+
+        <div class="card">
+            <div class="navbar">  <a href="#">HOME</a>
+                <a href="#">ABOUT US</a>
+                <a href="#">CONTACT</a>
+                <a href="#">POST</a> </div>
+                
+            
+            </div>
+
+            <br>
+            <br>
+            <br>
+
+        </nav>
+
+        <div class="row">
+            <div class="column">
+                <img src ="1.jpg"  width="300"  height="300" alt="flower"> 
+                <p> <b>some of the heading</b></p>
+              
+            </div>
+            <div class="column">
+                <img src ="2.jpg"  width="300"  height="300" alt="flower"> 
+                <p> <b>some of the heading</b></p>  
+             
+            </div>
+            <div class="column">
+                <img src ="3.jpg"  width="300"  height="300" alt="flower"> 
+                <p> <b>some of the heading</b></p> 
+                
+            </div> 
+
+                
+        </div>  
+        
+                <br>
+                <br>
+                <br>
+                <br>
+            
+                <p> <b>some of the herbs plants </b></p>  
+
+    <div class="roww">
+            <div class="clm">
+                <img src ="4.jpg"  width="300"  height="300" alt="flower"> 
+                <p> <b>some of the heading</b></p>
+              
+            </div>
+            <div class="clm">
+                <img src ="5.jpg"  width="300"  height="300" alt="flower"> 
+                <p> <b>some of the heading</b></p>  
+             
+            </div>
+            <div class="clm">
+                <img src ="6.jpg"  width="300"  height="300" alt="flower"> 
+                <p> <b>some of the heading</b></p>  
+            
+              
+            </div>
+    </div>
+          
+
+         
+    
+        <div class="card"> 
+        <footer>
+            <div class="card">  <h2>Footer</h2> </div>
+        </footer>
+       
+        
+        
+    </body>
+        </html>
+
+        
